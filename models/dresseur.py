@@ -1,3 +1,5 @@
+import os
+
 class Dresseur:
 
     def __init__(self, nom):
